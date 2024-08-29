@@ -1,0 +1,18 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Kilko Balance",
+                "description": "Set up your Kilko Balance account",
+                "data": {
+                    "username": "Card Number",
+                    "password": "Password"
+                }
+            }
+        },
+        "error": {
+            "invalid_auth": "Invalid authentication",
+            "unknown": "Unexpected error occurred"
+        }
+    }
+}
